@@ -56,6 +56,9 @@
   </div>
   <a href="#" id="download">Download</a>
 
+  <br>
+  <p>dibuat dengan terburu2</p>
+
   <!-- <div class="preview-container">
     <h2>Preview</h2>
     <canvas id="previewCanvas" width="400" height="300"></canvas>
